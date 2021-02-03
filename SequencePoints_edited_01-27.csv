@@ -1,0 +1,63 @@
+﻿Project,Project_Num,Country,Country_Key,Sequence_Count,Lat,Long,Size
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,Ghana,Ghana,26,-1.25,9,2
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,Burkina Faso,Burkina_Faso,34,-2.2,12.3,2
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,Mali,Mali,50,-3.91,16.87,2
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,Zambia,Zambia,41,27.5,-13.5,2
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,Benin,Benin,50,2.6,10.3,2
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,Cameroon,Cameroon,50,13,7.5,2
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,Botswana,Botswana,48,24.5,-21,2
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,Nigeria,Nigeria,59,8.4,10.3,2
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,Uganda,Uganda,83,33.4,1.5,2
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,DRC,DRC,42,23.6,-1,2
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,Ivory Coast,Ivory_Coast,30,-5.57,7.5,2
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,Guinea,Guinea,46,-9.4,9.6,2
+"H3 Africa: Choudhury <i>et al</i>., <i>Nature</i><sup>1</sup>, 2020",2,South Africa,South_Africa,16,25.6,-28.95,2
+"1000 Genomes<sup>6</sup>: <i>Nature</i>, 2015",7,Gambia,Gambia,280,-15.5,13.3,2
+"1000 Genomes<sup>6</sup>: <i>Nature</i>, 2015",7,Sierra Leone,Sierra_Leone,128,-12.3,8.7,2
+"1000 Genomes<sup>6</sup>: <i>Nature</i>, 2015",7,Nigeria,Nigeria,359,4.5,7.51,2
+"1000 Genomes<sup>6</sup>: <i>Nature</i>, 2015",7,Kenya,Kenya,116,37.1,-1.3,2
+"AGVP<sup>2</sup>: Gurdasani <i>et al</i>., <i>Nature</i>, 2014",3,Uganda,Uganda,100,31.6,2.1,2
+"AGVP<sup>2</sup>: Gurdasani <i>et al</i>., <i>Nature</i>, 2014",3,Ethiopia,Ethiopia,120,39.68,9.39,2
+"AGVP<sup>2</sup>: Gurdasani <i>et al</i>., <i>Nature</i>, 2014",3,South Africa,South_Africa,100,25.6,-30.4,2
+"Lorente-Galdos <i>et al</i>., <i>Genome Biology</i>, 2019",1,Namibia,Namibia,3,19.12,-22.6,1
+"Lorente-Galdos <i>et al</i>., <i>Genome Biology</i>, 2019",1,South Africa,South_Africa,2,22.91,-33.3,1
+"Lorente-Galdos <i>et al</i>., <i>Genome Biology</i>, 2019",1,DRC,DRC,2,25.71,0.83,1
+"Lorente-Galdos <i>et al</i>., <i>Genome Biology</i>, 2019",1,Gabon,Gabon,2,12,-1.36,1
+"Lorente-Galdos <i>et al</i>., <i>Genome Biology</i>, 2019",1,Nigeria,Nigeria,3,4.53,9.62,1
+"Lorente-Galdos <i>et al</i>., <i>Genome Biology</i>, 2019",1,Senegal,Senegal,2,-16,15,1
+"Lorente-Galdos <i>et al</i>., <i>Genome Biology</i>, 2019",1,Chad,Chad,2,18.41,16.41,1
+"Lorente-Galdos <i>et al</i>., <i>Genome Biology</i>, 2019",1,South Sudan,S_Sudan,2,26.8,7.9,1
+"Lorente-Galdos <i>et al</i>., <i>Genome Biology</i>, 2019",1,Kenya,Kenya,1,40.19,-0.96,1
+"Lorente-Galdos <i>et al</i>., <i>Genome Biology</i>, 2019",1,Western Sahara,W_Sahara,1,-11,26.43,1
+"Lorente-Galdos <i>et al</i>., <i>Genome Biology</i>, 2019",1,Libya,Libya,1,14.28,30.66,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Algeria,Algeria,2,2.4,31.9,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Western Sahara,W_Sahara,2,-9.3,26.4,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Gambia,Gambia,2,-14.6,13.43,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Senegal,Senegal,3,-14,14.7,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Sierra Leone,Sierra_Leone,2,-11.3,8.7,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Nigeria,Nigeria,7,3.53,7.31,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Central African Republic,Central_African_Rep,4,17,4.53,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,South Sudan,S_Sudan,3,27.4,8.8,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,DRC,DRC,5,28.5,1.63,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Kenya,Kenya,19,35.5,-0.16,2
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Namibia,Namibia,4,18.73,-23.5,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,South Africa,South_Africa,2,20.87,-27.5,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Botswana,Botswana,4,24.65,-25.1,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Cameroon,Cameroon,16,12.46,4.81,2
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Chad,Chad,4,16.2,8.84,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Ethiopia,Ethiopia,8,36.92,6.21,1
+"SGDP<sup>4</sup>: Fan <i>et al</i>., <i>Genome Biology</i><sup>5</sup>, 2019",6,Tanzania,Tanzania,5,34.87,-5.2,1
+"Lachance <i>et al</i>., <i>Cell</i>, 2012",12,Cameroon,Cameroon,5,12.8,5.7,1
+"Lachance <i>et al</i>., <i>Cell</i>, 2012",12,Tanzania,Tanzania,10,32,-5,1
+"Schuster <i>et al</i>., <i>Nature</i>, 2010",11,Namibia,Namibia,1,19.1,-25.87,1
+"Schuster <i>et al</i>., <i>Nature</i>, 2010",11,South Africa,South_Africa,1,26,-26.81,1
+"UGR<sup>7</sup>: Gurdasani <i>et al</i>., <i>Cell</i>, 2012",10,Uganda,Uganda,1978,31.1,-0.06,3
+"MalariaGEN<sup>3</sup>: <i>Nature Communications</i>, 2019",4,Gambia,Gambia,398,-16.66,13.17,2
+"MalariaGEN<sup>3</sup>: <i>Nature Communications</i>, 2019",4,Burkina Faso,Burkina_Faso,57,-0.9,13,2
+"MalariaGEN<sup>3</sup>: <i>Nature Communications</i>, 2019",4,Cameroon,Cameroon,63,10.35,5.1,2
+"MalariaGEN<sup>3</sup>: <i>Nature Communications</i>, 2019",4,Tanzania,Tanzania,247,35.84,-4,2
+"ElHefnawi <i>et al</i>., <i>Gene</i>, 2021",9,Egypt,Egypt,9,28,28,1
+"Pagani <i>et al<i>., <i>Am. J. Hum. Genet.</i>, 2015",8,Egypt,Egypt,100,30,25.8,2
+"Pagani <i>et al<i>., <i>Am. J. Hum. Genet.</i>, 2015",8,Ethiopia,Ethiopia,125,39.55,8.46,2
+"Sherman <i>et al</i>., <i>Nature Genetics</i>, 2018",5,Gabon,Gabon,34,10.76,-1.94,2
+"Sherman <i>et al</i>., <i>Nature Genetics</i>, 2018",5,Nigeria,Nigeria,50,10.76,10.73,2
